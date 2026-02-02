@@ -82,8 +82,7 @@ const comboFrames = [
 Created with help from Grok (xAI) in early 2026.  
 Free to use/modify/share for any non-commercial purpose.  
 No formal license — just have fun!
-
-Made in McAllen, Texas – February 2026  
+ 
 Enjoy punching pixels! 🥊✨
 
 If you add features or take screenshots, feel free to share — I'd love to see how it evolves!
